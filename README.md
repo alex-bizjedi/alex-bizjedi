@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data leader who likes doing something hands-on from time to time. I'm always up for a tough org or design challenge that modern data or business intelligence team can face. So feel free to hit me up if you're looking for someone to help navigate the treacherous waters of data governance or fuel a rocket of data strategy. And from time to time I write my PRs.
+I am a data leader who likes doing something hands-on from time to time. I'm always up for a tough org or design challenge that a modern data or business intelligence team can face. So feel free to hit me up if you're looking for someone to help navigate the treacherous waters of data governance or fuel a rocket of data strategy. And from time to time I write my PRs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanovik) 
